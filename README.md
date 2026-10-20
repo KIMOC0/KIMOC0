@@ -19,12 +19,6 @@ https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=whi
 https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white
 
 🧠 Gamedev Mindset:
-csharp
-public class Kimoco : GameDeveloper
-{
-    public int YearsInGamedev => 2;
-    public string Engine => "Unity";
-    public string Superpower => "Превращать шизу в механики";
 
     public void MakeGame(Idea weirdIdea)
     {
