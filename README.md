@@ -29,16 +29,10 @@ https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoCol
         }
     }
 }
+<p></p>
 📊 GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kimoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimoco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimoco&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-🏆 Achievements & Trophies:
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kimoco&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" /> </p>
-📈 Activity Graph:
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimoco&theme=tokyo-night&hide_border=true" alt="Activity Graph" /> </p>
-🎧 Now Playing:
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=kimoco&cover_image=true&theme=novatorem" alt="Spotify" /> </p>
-🐍 Contribution Snake:
-<p align="center"> <img src="https://raw.githubusercontent.com/Kimoco/Kimoco/output/github-contribution-grid-snake-dark.svg" alt="Snake" /> </p>
+
 📫 How to Reach Me:
 GitHub: @Kimoco
 
